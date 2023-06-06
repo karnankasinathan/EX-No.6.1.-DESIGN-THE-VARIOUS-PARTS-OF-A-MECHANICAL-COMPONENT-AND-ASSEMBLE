@@ -46,7 +46,7 @@ We follow the same steps for aligning the components onto their respective      
 If the components do not fit properly into the slots, it can be moved into the slot using the Move option.
 
 ## INPUT: 
-![image](https://github.com/karnankasinathan/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/118787064/2c553c94-96bd-4636-949f-c7c34f4aa7c1)
+
 
 #### LINKAGE
 ![image](https://user-images.githubusercontent.com/113594316/199413513-8fa5b9db-0546-49d0-ad4c-230b22984d3c.png)
@@ -64,6 +64,7 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
+![image](https://github.com/karnankasinathan/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/118787064/de9861b2-43b8-4168-b2ed-8954a9e00817)
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
